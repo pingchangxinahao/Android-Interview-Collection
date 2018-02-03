@@ -25,6 +25,9 @@ ostracod: 杭州找Android工作的点点滴滴
 墨镜猫: 一线互联网公司内部面试题库 v1.1  
 <https://mp.weixin.qq.com/s/kpxswYcT57ZWB5WEKZKgjg>
 
+猿来是9527: Android菜鸡的苦逼求职路  
+<http://blog.csdn.net/moyinghui/article/details/78114604>
+
 THEONE10211024: Android面试回忆录  
 <http://blog.csdn.net/theone10211024/article/details/51025022>
 
