@@ -28,6 +28,9 @@
 - 猿来是9527: Android菜鸡的苦逼求职路  
 <http://blog.csdn.net/moyinghui/article/details/78114604>
 
+- 柴泽建_Jack: 近期Android面试经历总结  
+<https://www.jianshu.com/p/a87349270792>
+
 - THEONE10211024: Android面试回忆录  
 <http://blog.csdn.net/theone10211024/article/details/51025022>
 
