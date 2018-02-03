@@ -47,9 +47,9 @@
 <http://www.jackywang.tech/AndroidInterview-Q-A/>
 
 - Ruheng(网易):  
- + 2017 Android秋招面试总结  
+    + 2017 Android秋招面试总结  
 <https://www.jianshu.com/p/1149636d841a>  
- + 一篇文章，全面总结Android面试知识点  
+    + 一篇文章，全面总结Android面试知识点  
 <https://www.jianshu.com/p/3df3d2974234>
 
 - 江湖人称小白哥: Android面试题集  
@@ -72,9 +72,9 @@
 &emsp;&emsp;对于找工作, 我也有一点想说: 千万不要裸辞。个人亲身体验, 去年裸辞匆忙入职了一家不喜欢的公司, 结果做了没多久还是决定开年另找工作。当然这次是骑驴找马, 再也不敢裸辞了。**不要裸辞**, **不要裸辞**, **不要裸辞**, 重要的事情说三遍, 我想我不必再强调了。
 
 - Lison:  
- + 一直找不到工作是怎样一种体验？  
+    + 一直找不到工作是怎样一种体验？  
 <https://www.zhihu.com/question/28826455/answer/270489258>  
- + [杭州上海深圳]求 Android 开发，目前坐标重庆。  
+    + [杭州上海深圳]求 Android 开发，目前坐标重庆。  
 <https://neue.v2ex.com/t/414138#reply2>
 
 - D_clock爱吃葱花: 当你求职跳槽时，需要注意的一些细节  
