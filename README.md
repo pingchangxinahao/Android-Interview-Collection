@@ -22,6 +22,15 @@
 - 怎么准备Android面试？ - 知乎  
 <https://www.zhihu.com/question/37483907>
 
+- 面试时，问哪些问题能试出一个 Android 应用开发者真正的水平？- 知乎  
+<https://www.zhihu.com/question/19765032>
+
+- Android面试专栏 - 知乎  
+<https://zhuanlan.zhihu.com/androidinterview>
+
+- Android交流研发部 - 知乎  
+<https://zhuanlan.zhihu.com/c_92162111>
+
 - 墨镜猫: 一线互联网公司内部面试题库 v1.1  
 <https://mp.weixin.qq.com/s/kpxswYcT57ZWB5WEKZKgjg>
 
@@ -33,6 +42,9 @@
 
 - THEONE10211024: Android面试回忆录  
 <http://blog.csdn.net/theone10211024/article/details/51025022>
+
+- Maat红飞: 亲爱的面试官，这个我可没看过！（Android部分）  
+<https://www.jianshu.com/p/89f19d67b348>
 
 - 漫唐: Android面试题汇总  
 <https://www.jianshu.com/p/e69faff1463f>
